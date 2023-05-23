@@ -1,0 +1,15 @@
+# Patient-Survival-Prediction
+Getting a rapid understanding of the context of a patient’s overall health has been particularly important during the COVID-19 pandemic as healthcare workers around the world struggle with hospitals overloaded by patients in critical condition. Intensive Care Units (ICUs) often lack verified medical histories for incoming patients. A patient in distress or a patient who is brought in confused or unresponsive may not be able to provide information about chronic conditions such as heart disease, injuries, or diabetes. Medical records may take days to transfer, especially for a patient from another medical provider or system. Knowledge about chronic conditions can inform clinical decisions about patient care and ultimately improve patient's survival outcomes.<br>
+Source of Dataset: [click here](https://journals.lww.com/ccmjournal/Citation/2019/01001/33__THE_GLOBAL_OPEN_SOURCE_SEVERITY_OF_ILLNESS.36.aspx)
+## Notebook Building
+The notebook is builded using Jupyter notebook the in following steps
+* Importing Libraies
+* Importing Dataset
+* Exploratary Data Analysis (EDA)
+* Hypothesis Testing
+* Preprocessing
+* Model Building
+* Hyperparameter Tuning
+* Explanaible AI (XAI)
+* Select Feature for API, Again Train Model on Selected Feature
+* Deploy on Web
